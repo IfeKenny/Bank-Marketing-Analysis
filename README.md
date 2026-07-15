@@ -17,6 +17,7 @@ Recommendation
 - Customers with no loan should be adequately contacted and engaged to foster high deposits
 - Cellular channels and telephone should be used more effectively customer’s because cellular is part of customer’s daily use
 - During Interactions, conversations should be kept simple and direct so the information can be communicated effectively
+- Campaigns should be targeted towards December as the deposit was at peak at December
 - <img width="765" height="429" alt="BANK MARKETING ANALYSIS" src="https://github.com/user-attachments/assets/1042eee3-d64e-447d-9b96-48239f2df4b4" />
 
 Campaigns should be targeted towards December as the deposit was at peak at December
