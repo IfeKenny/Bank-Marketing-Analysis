@@ -4,6 +4,7 @@ This bank marketing analysis report evaluates data from 11,000 customer contacts
 - Examine the relationship between a customer's marital status, deposit patterns, and loan preferences.
 - Measure the effect of call duration on success rates to identify the optimal length for securing a deposit.
 - Compare deposit performance between white-collar workers and students to identify the top-performing segment.
+  
 Key Insights
 - 11,000 customers was contacted and through the contact 5000 deposit was secured
 - Secondary education contributes to the highest deposit followed by the tertiary education while the primary education takes the least.
@@ -11,6 +12,7 @@ Key Insights
 - Customers no housing loan and no personal loan converted and made deposit
 - Average call duration shows the unemployed and self employed have the longest call durations while students have shorter call duration
 - There was highest conversion rate in December
+
 Recommendation
 - Customers with no loan should be adequately contacted and engaged to foster high deposits
 - Cellular channels and telephone should be used more effectively customer’s because cellular is part of customer’s daily use
